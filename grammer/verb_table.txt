@@ -1,0 +1,209 @@
+Infinitive:   avoir
+Past Part:    eu /y/
+Gerund:       ayant /ɛjɑ̃/
+Imperative:   aie /ɛ/, ayons /ɛjɔ̃/, ayez
+Present:      ai /e/, as /a/, a /a/, avons /avɔ̃/, avez /ave/, ont /ɔ̃/
+Pres Perf:    j'ai eu     
+Imperfect:    avais, avais, avait, avions, aviez, avaient            
+Future:       aurai /ɔʀe/, auras, aura, aurons, aurez, auront         
+Conditional:  aurais, aurais, aurait, aurions, auriez, auraient          
+Past Hist:    eus /y/, eus, eut, eûmes /ym/, eûtes, eurent       
+Pluperfect:   j'avais eu      
+Future Perf:  j'aurai eu 
+Past Ant:     j'eus eu
+Condl Perf:   j'aurais eu
+Pres Subj:    aie, aies, ait, ayons, ayez, aient
+Imperf Subj:  eusse /ys/, eusses, eût, eussions, eussiez, eussent
+PP Subj:      j'aie eu
+Plup Subj:    j'eusse eu
+=================================================================================================
+Infinitive:  donner
+Past Part:   donné
+Gerund:      donnant
+Imperative:  donne, donnons, donnez
+Present:     donne, donnes, donne, donnons, donnez, donnent
+Pres Perf:   j'ai donné
+Imperfect:   donnais, donnais, donnait, donnions, donniez, donnaient
+Future:      donnerai, donneras, donnera, donnerons, donnerez, donneront
+Conditional: donnerais, donnerais, donnerait, donnerions, donneriez, donneraient
+Past Hist:   donnai, donnas, donna, donnâmes, donnâtes, donnèrent
+Pluperfect:  j'avais donné
+Future Perf: j'aurai donné
+Past Ant:    j'eus donné
+Condl Perf:  j'aurais donné
+Pres Subj:   donne, donnes, donne, donnions, donniez, donnent
+Imperf Subj: donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
+PP Subj:     j'aie donné
+Plup Subj:   j'eusse donné
+=================================================================================================
+Infinitive:  être
+Past Part:   été /ete/
+Gerund:      étant
+Imperative:  sois, soyons, soyez
+Present:     suis, es /ɛ/, est, sommes /sɔm/, êtes /ɛt/, sont /sɔ̃/
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  finir
+Past Part:   fini
+Gerund:      finissant
+Imperative:  finis, finissons, finissez
+Present:     finis, finis, finit, finissons, finissez, finissent
+Pres Perf:   j'ai fini
+Imperfect:   finissais, finissais, finissait, finissions, finissiez, finissaient
+Future:      finirai, finiras, finira, finirons, finirez, finiront
+Conditional: finirais, finirais, finirait, finirions, finiriez, finiraient
+Past Hist:   finis, finis, finit, finîmes, finîtes, finirent
+Pluperfect:  j'avais fini
+Future Perf: j'aurai fini
+Past Ant:    j'eus fini
+Condl Perf:  j'aurais fini
+Pres Subj:   finisse, finisses, finisse, finissions, finissiez, finissent
+Imperf Subj: finisse, finisses, finît, finissions, finissiez, finissent
+PP Subj:     j'aie fini
+Plup Subj:   j'eusse fini
+=================================================================================================
+Infinitive:  rendre
+Past Part:   rendu
+Gerund:      rendant
+Imperative:  rends, rendons, rendez
+Present:     rends, rends, rend, rendons, rendez, rendent
+Pres Perf:   j'ai rendu
+Imperfect:   rendais, rendais, rendait, rendions, rendiez, rendaient
+Future:      rendrai, rendras, rendra, rendrons, rendrez, rendront
+Conditional: rendrais, rendrais, rendrait, rendrions, rendriez, rendraient
+Past Hist:   rendis, rendis, rendit, rendîmes, rendîtes, rendirent
+Pluperfect:  j'avais rendu
+Future Perf: j'aurai rendu
+Past Ant:    j'eus rendu
+Condl Perf:  j'aurais rendu
+Pres Subj:   rende, rendes, rende, rendions, rendiez, rendent
+Imperf Subj: rendisse, rendisses, rendît, rendissions, rendissiez, rendissent
+PP Subj:     j'aie rendu
+Plup Subj:   j'eusse rendu
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
+Infinitive:  
+Past Part:   
+Gerund:      
+Imperative:  
+Present:     
+Pres Perf:   
+Imperfect:   
+Future:      
+Conditional: 
+Past Hist:   
+Pluperfect:  
+Future Perf: 
+Past Ant:    
+Condl Perf:  
+Pres Subj:   
+Imperf Subj: 
+PP Subj:     
+Plup Subj:   
+=================================================================================================
