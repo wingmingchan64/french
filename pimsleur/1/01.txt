@@ -4,7 +4,7 @@ Pardon ! Est-ce que vous comprenez l'anglais ?
 Non, monsieur. Je ne comprends pas l'anglais.
 Je comprends un peu le français.
 Est-ce que vous êtes Américain ?
-Oui, mademoiselle.
+Oui, Mademoiselle.
 ========================================================
 00:47 pardon /paʀdɔ̃/
 01:17 l'anglais
@@ -19,7 +19,7 @@ Oui, mademoiselle.
 05:22 Est-ce que vous comprenez ?
 05:32 Est-ce que vous comprenez l'anglais ?
 05:48 non
-05:58 Non, monsieur.
+05:58 Non, Monsieur.
 06:03 monsieur
 06:44 Est-ce que vous comprenez ?
 06:58 Est-ce que vous comprenez l'anglais ?
@@ -33,7 +33,7 @@ Oui, mademoiselle.
 08:52 pardon
 09:00 Est-ce que vous comprenez ?
 09:12 Est-ce que vous comprenez l'anglais ?
-09:27 Non, monsieur.
+09:27 Non, Monsieur.
 09:38 je comprends
 09:50 Je ne comprends pas
 09:55 pas
@@ -69,11 +69,11 @@ Oui, mademoiselle.
 18:48 Est-ce que vous comprenez l'anglais ?
 18:59 Est-ce que vous êtes Américain ?
 19:09 oui
-19:17 Oui, mademoiselle.
-19:20 mademoiselle
-19:39 Oui, mademoiselle.
+19:17 Oui, Mademoiselle.
+19:20 Mademoiselle
+19:39 Oui, Mademoiselle.
 19:49 Est-ce que vous êtes Américain ?
-20:04 Oui, mademoiselle.
+20:04 Oui, Mademoiselle.
 20:18 Est-ce que vous comprenez l'anglais ?
 20:35 Non, je ne comprends pas.
 20:50 Je ne comprends pas l'anglais.
@@ -82,14 +82,14 @@ Oui, mademoiselle.
 22:09 Est-ce que vous comprenez ?
 22:24 Est-ce que vous comprenez le français ?
 22:44 Est-ce que vous comprenez l'anglais ?
-22:55 Non, monsieur.
+22:55 Non, Monsieur.
 23:03 Je ne comprends pas l'anglais.
-23:19 Est-ce que vous comprenez le français, monsieur ?
+23:19 Est-ce que vous comprenez le français, Monsieur ?
 23:37 Je comprends un peu.
 23:53 Est-ce que vous êtes Américain ?
-24:09 Oui, mademoiselle.
-24:17 Est-ce que vous comprenez l'anglais, monsieur ?
-24:26 Oui, mademoiselle. Je comprends l'anglais.
+24:09 Oui, Mademoiselle.
+24:17 Est-ce que vous comprenez l'anglais, Monsieur ?
+24:26 Oui, Mademoiselle. Je comprends l'anglais.
 24:38 Est-ce que vous comprenez le français ?
 24:46 Un peu. Je comprends un peu le français.
 ========================================================
