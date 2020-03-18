@@ -1,0 +1,18 @@
+Infinitive:  être
+Past Part:   été /ete/
+Gerund:      étant
+Imperative:  sois, soyons, soyez
+Present:     suis, es /ɛ/, est, sommes /sɔm/, êtes /ɛt/, sont /sɔ̃/
+Pres Perf:   j'ai été
+Imperfect:   étais, étais, était, étions, étiez, étaient
+Future:      serai, seras, sera, serons, serez, seront
+Conditional: serais, serais, serait, serions, seriez, seraient
+Past Hist:   fus, fus, fut, fûmes, fûtes, furent
+Pluperfect:  j'avais été
+Future Perf: j'aurai été
+Past Ant:    j'eus été
+Cond Perf:   j'aurais été
+Pres Subj:   sois, sois, soit, soyons, soyez, soient
+Imperf Subj: fusse, fusses, fût, fussions, fussiez, fussent
+PP Subj:     j'aie été
+Plup Subj:   j'eusse été

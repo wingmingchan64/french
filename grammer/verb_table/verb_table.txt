@@ -11,7 +11,7 @@ Past Hist:    eus /y/, eus, eut, eûmes /ym/, eûtes, eurent
 Pluperfect:   j'avais eu      
 Future Perf:  j'aurai eu 
 Past Ant:     j'eus eu
-Condl Perf:   j'aurais eu
+Cond Perf:    j'aurais eu
 Pres Subj:    aie, aies, ait, ayons, ayez, aient
 Imperf Subj:  eusse /ys/, eusses, eût, eussions, eussiez, eussent
 PP Subj:      j'aie eu

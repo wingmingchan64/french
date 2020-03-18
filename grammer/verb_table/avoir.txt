@@ -1,0 +1,18 @@
+Infinitive:   avoir
+Past Part:    eu /y/
+Gerund:       ayant /ɛjɑ̃/
+Imperative:   aie /ɛ/, ayons /ɛjɔ̃/, ayez
+Present:      ai /e/, as /a/, a /a/, avons /avɔ̃/, avez /ave/, ont /ɔ̃/
+Pres Perf:    j'ai eu     
+Imperfect:    avais, avais, avait, avions, aviez, avaient            
+Future:       aurai /ɔʀe/, auras, aura, aurons, aurez, auront         
+Conditional:  aurais, aurais, aurait, aurions, auriez, auraient          
+Past Hist:    eus /y/, eus, eut, eûmes /ym/, eûtes, eurent       
+Pluperfect:   j'avais eu      
+Future Perf:  j'aurai eu 
+Past Ant:     j'eus eu
+Cond Perf:    j'aurais eu
+Pres Subj:    aie, aies, ait, ayons, ayez, aient
+Imperf Subj:  eusse /ys/, eusses, eût, eussions, eussiez, eussent
+PP Subj:      j'aie eu
+Plup Subj:    j'eusse eu

@@ -1,0 +1,18 @@
+Infinitive:  donner
+Past Part:   donné
+Gerund:      donnant
+Imperative:  donne, donnons, donnez
+Present:     donne, donnes, donne, donnons, donnez, donnent
+Pres Perf:   j'ai donné
+Imperfect:   donnais, donnais, donnait, donnions, donniez, donnaient
+Future:      donnerai, donneras, donnera, donnerons, donnerez, donneront
+Conditional: donnerais, donnerais, donnerait, donnerions, donneriez, donneraient
+Past Hist:   donnai, donnas, donna, donnâmes, donnâtes, donnèrent
+Pluperfect:  j'avais donné
+Future Perf: j'aurai donné
+Past Ant:    j'eus donné
+Cond Perf:   j'aurais donné
+Pres Subj:   donne, donnes, donne, donnions, donniez, donnent
+Imperf Subj: donnasse, donnasses, donnât, donnassions, donnassiez, donnassent
+PP Subj:     j'aie donné
+Plup Subj:   j'eusse donné

@@ -1,0 +1,18 @@
+Infinitive:  rendre
+Past Part:   rendu
+Gerund:      rendant
+Imperative:  rends, rendons, rendez
+Present:     rends, rends, rend, rendons, rendez, rendent
+Pres Perf:   j'ai rendu
+Imperfect:   rendais, rendais, rendait, rendions, rendiez, rendaient
+Future:      rendrai, rendras, rendra, rendrons, rendrez, rendront
+Conditional: rendrais, rendrais, rendrait, rendrions, rendriez, rendraient
+Past Hist:   rendis, rendis, rendit, rendîmes, rendîtes, rendirent
+Pluperfect:  j'avais rendu
+Future Perf: j'aurai rendu
+Past Ant:    j'eus rendu
+Condl Perf:  j'aurais rendu
+Pres Subj:   rende, rendes, rende, rendions, rendiez, rendent
+Imperf Subj: rendisse, rendisses, rendît, rendissions, rendissiez, rendissent
+PP Subj:     j'aie rendu
+Plup Subj:   j'eusse rendu
