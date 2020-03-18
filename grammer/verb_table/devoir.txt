@@ -1,0 +1,18 @@
+Infinitive:  devoir
+Past Part:   dû
+Gerund:      devant
+Imperative:  dois, devons, devez
+Present:     dois, dois, doit, devons, devez, doivent
+Pres Perf:   j'ai dû
+Imperfect:   devais, devais, devait, devions, deviez, devaient
+Future:      devrai, devras, devra, devrons, devrez, devront
+Conditional: devrais, devrais, devrait, devrions, devriez, devraient
+Past Hist:   je dus, je dus, dut, dûmes, dûtes, durent
+Pluperfect:  j'avais dû
+Future Perf: j'aurai dû
+Past Ant:    j'eus dû
+Cond Perf:   j'aurais dû
+Pres Subj:   doive, doives, doive, devions, deviez, doivent
+Imperf Subj: dusse, dusses, dût, dussions, dussiez, dussent
+PP Subj:     j'aie dû
+Plup Subj:   j'eusse dû
