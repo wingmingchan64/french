@@ -1,0 +1,18 @@
+Infinitive:  se voir
+Past Part:   vu
+Gerund:      voyant
+Imperative:  vois-toi, voyons-nous, voyez-vous
+Present:     me vois, te vois, se voit, nous voyons, vous voyez, se voient
+Pres Perf:   je me suis vu
+Imperfect:   me voyais, te voyais, se voyait, nous voyions, vous voyiez, se voyaient
+Future:      me verrai, te verras, se verra, nous verrons, vous verrez, se verront
+Conditional: me verrais, te verrais, se verrait, nous verrions, vous verriez, se verraient
+Past Hist:   me vis, te vis, se vit, nous vîmes, vous vîtes, se virent
+Pluperfect:  je m'étais vu
+Future Perf: je me serai vu
+Past Ant:    je me fus vu
+Cond Perf:   je me serais vu
+Pres Subj:   me voie, te voies, se voie, nous voyions, vous voyiez, se voient
+Imperf Subj: me visse, te visses, se vît, nous vissions, vous vissiez, se vissent
+PP Subj:     je me sois vu
+Plup Subj:   je me fusse vu

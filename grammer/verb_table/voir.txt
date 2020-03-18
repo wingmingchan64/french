@@ -1,0 +1,18 @@
+Infinitive:  voir
+Past Part:   vu
+Gerund:      voyant
+Imperative:  vois, voyons, voyez
+Present:     vois, vois, voit, voyons, voyez, voient
+Pres Perf:   j'ai vu
+Imperfect:   voyais, voyais, voyait, voyions, voyiez, voyaient
+Future:      verrai, verras, verra, verrons, verrez, verront
+Conditional: verrais, verrais, verrait, verrions, verriez, verraient
+Past Hist:   vis, vis, vit, vîmes, vîtes, virent
+Pluperfect:  j'avais vu
+Future Perf: j'aurai vu
+Past Ant:    j'eus vu
+Cond Perf:   j'aurais vu
+Pres Subj:   voie, voies, voie, voyions, voyiez, voient
+Imperf Subj: visse, visses, vît, vissions, vissiez, vissent
+PP Subj:     j'aie vu
+Plup Subj:   j'eusse vu
