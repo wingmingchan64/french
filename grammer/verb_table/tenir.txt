@@ -1,0 +1,18 @@
+Infinitite:  tenir
+Past Part:   tenu
+Gerund:      tenant
+Imperatite:  tiens, tenons, tenez
+Present:     tiens, tiens, tient, tenons, tenez, tiennent
+Pres Perf:   j'ai tenu
+Imperfect:   tenais, tenais, tenait, tenions, teniez, tenaient
+Future:      tiendrai, tiendras, tiendra, tiendrons, tiendrez, tiendront
+Conditional: tiendrais, tiendrais, tiendrait, tiendrions, tiendriez, tiendraient
+Past Hist:   tins, tins, tint, tînmes, tîntes, tinrent
+Pluperfect:  j'avais tenu
+Future Perf: je aurai tenu
+Past Ant:    j'eus tenu
+Cond Perf:   j'aurais tenu
+Pres Subj:   tienne, tiennes, tienne, tenions, teniez, tiennent
+Imperf Subj: tinsse, tinsses, tînt, tinssions, tinssiez, tinssent
+PP Subj:     j'aie tenu
+Plup Subj:   j'eusse fusse tenu
