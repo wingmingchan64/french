@@ -19,7 +19,7 @@ Oui, Mademoiselle.
 05:22 Est-ce que vous comprenez ?
 05:32 Est-ce que vous comprenez l'anglais ?
 05:48 non
-05:58 Non, Monsieur.
+05:58 Non, Monsieur /məsjø/.
 06:03 Monsieur
 06:44 Est-ce que vous comprenez ?
 06:58 Est-ce que vous comprenez l'anglais ?
@@ -60,7 +60,7 @@ Oui, Mademoiselle.
 15:49 Je comprends le français.
 16:04 Un peu.
 16:11 Je comprends un peu le français.
-16:55 Américain
+16:55 Américain /ameʀikɛ̃/
 17:29 vous êtes
 17:51 Vous êtes Américain.
 18:08 Est-ce que vous êtes Américain ?
@@ -70,7 +70,7 @@ Oui, Mademoiselle.
 18:59 Est-ce que vous êtes Américain ?
 19:09 oui
 19:17 Oui, Mademoiselle.
-19:20 Mademoiselle
+19:20 Mademoiselle /madmwazɛl/
 19:39 Oui, Mademoiselle.
 19:49 Est-ce que vous êtes Américain ?
 20:04 Oui, Mademoiselle.
