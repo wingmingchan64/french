@@ -1,7 +1,7 @@
 Unit 1: Est-ce que vous comprenez le français ?
 ========================================================
 Pardon ! Est-ce que vous comprenez l'anglais ?
-Non, monsieur. Je ne comprends pas l'anglais.
+Non, Monsieur. Je ne comprends pas l'anglais.
 Je comprends un peu le français.
 Est-ce que vous êtes Américain ?
 Oui, Mademoiselle.
@@ -20,7 +20,7 @@ Oui, Mademoiselle.
 05:32 Est-ce que vous comprenez l'anglais ?
 05:48 non
 05:58 Non, Monsieur.
-06:03 monsieur
+06:03 Monsieur
 06:44 Est-ce que vous comprenez ?
 06:58 Est-ce que vous comprenez l'anglais ?
 07:16 je
@@ -78,7 +78,7 @@ Oui, Mademoiselle.
 20:35 Non, je ne comprends pas.
 20:50 Je ne comprends pas l'anglais.
 21:02 Je comprends un peu le français.
-21:54 Pardon ! Pardon, mademoiselle ?
+21:54 Pardon ! Pardon, Mademoiselle ?
 22:09 Est-ce que vous comprenez ?
 22:24 Est-ce que vous comprenez le français ?
 22:44 Est-ce que vous comprenez l'anglais ?
@@ -93,6 +93,6 @@ Oui, Mademoiselle.
 24:38 Est-ce que vous comprenez le français ?
 24:46 Un peu. Je comprends un peu le français.
 ========================================================
-comprendre: comprends, comprends, comprend, comprenons, comprenez, comprennent
-américaine
+comprendre /kɔ̃pʀɑ̃dʀ/: comprends, comprends, comprend, comprenons, comprenez, comprennent
+Américaine
 ========================================================
