@@ -1,0 +1,18 @@
+Infinitive:  faire
+Past Part:   fait
+Gerund:      faisant
+Imperative:  fais, faisons, faites
+Present:     fais, fais, fait, faisons, faites, font
+Pres Perf:   j'ai fait
+Imperfect:   faisais /fəzɛ/, faisais, faisait, faisions, faisiez, faisaient
+Future:      ferai, feras, fera, ferons, ferez, feront
+Conditional: ferais, ferais, ferait, ferions, feriez, feraient
+Past Hist:   fis /fi/, fis, fit, fîmes, fîtes, firent
+Pluperfect:  j'avais fait
+Future Perf: j'aurai fait
+Past Ant:    j'eus fait
+Cond Perf:   j'aurais fait
+Pres Subj:   fasse, fasses, fasse, fassions, fassiez, fassent
+Imperf Subj: fisse, fisses, fît, fissions, fissiez, fissent
+PP Subj:     j'aie fait
+Plup Subj:   j'eusse fait

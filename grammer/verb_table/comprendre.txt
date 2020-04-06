@@ -1,0 +1,18 @@
+Infinitive:  comprendre
+Past Part:   compris
+Gerund:      comprenant
+Imperative:  comprends, comprenons, comprenez
+Present:     comprends, comprends, comprend, comprenons, comprenez, comprennent
+Pres Perf:   j'ai compris
+Imperfect:   comprenais, comprenais, comprenait, comprenions, compreniez, comprenaient
+Future:      comprendrai, comprendras, comprendra, comprendrons, comprendrez, comprendront
+Conditional: comprendrais, comprendrais, comprendrait, comprendrions, comprendriez, comprendraient
+Past Hist:   compris, compris, comprit, comprîmes, comprîtes, comprirent
+Pluperfect:  j'avais compris
+Future Perf: j'aurai compris
+Past Ant:    j'eus compris
+Cond Perf:   j'aurais compris
+Pres Subj:   comprenne, comprennes, comprenne, comprenions, compreniez, comprennent
+Imperf Subj: comprisse, comprisses, comprît, comprissions, comprissiez, comprissent
+PP Subj:     j'aie compris
+Plup Subj:   j'eusse compris
