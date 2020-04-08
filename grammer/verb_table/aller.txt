@@ -2,7 +2,7 @@ Infinitive:  aller
 Past Part:   allé
 Gerund:      allant
 Imperative:  va, allons, allez
-Present:     vais /vɛ/, vas, va, allons, allez, vont
+Present:     vais /vɛ/, vas /va/, va, allons, allez, vont
 Pres Perf:   je suis allé
 Imperfect:   allais, allais, allait, allions, alliez, allaient
 Future:      irai, iras, ira, irons, irez, iront
