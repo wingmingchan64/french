@@ -1,0 +1,18 @@
+Infinitive:  s'excuser
+Past Part:   excusé
+Gerund:      excusant
+Imperative:  excuse-toi, excusons-nous, excusez-vous
+Present:     m'excuse, t'excuses, s'excuse, nous excusons, vous excusez, s'excusent
+Pres Perf:   je me suis excusé
+Imperfect:   m'excusais, t'excusais, s'excusait, nous excusions, vous excusiez, s'excusaient
+Future:      m'excuserai, t'excuseras, s'excusera, nous excuserons, vous excuserez, s'excuseront
+Conditional: m'excuserais, t'excuserais, s'excuserait, nous excuserions, vous excuseriez, s'excuseraient
+Past Hist:   m'excusai, t'excusas, s'excusa, nous excusâmes, vous excusâtes, s'excusèrent
+Pluperfect:  je m'étais excusé
+Future Perf: je me serai excusé
+Past Ant:    je me fus excusé
+Cond Perf:   je me serais excusé
+Pres Subj:   m'excuse, t'excuses, s'excuse, nous excusions, vous excusiez, s'excusent
+Imperf Subj: m'excusasse, t'excusasses, s'excusât, nous excusassions, vous excusassiez, s'excusassent
+PP Subj:     je me sois excusé
+Plup Subj:   je me fusse excusé
