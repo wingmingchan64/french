@@ -9,7 +9,7 @@ Oui, Mademoiselle.
 00:47 pardon /paʀdɔ̃/
 01:17 l'anglais
 01:36 anglais /ɑ̃ɡlɛ/
-02:51 comprenez
+02:51 comprenez /kɔ̃pʀəne/
 03:28 vous comprenez
 03:33 vous
 04:16 vous comprenez l'anglais
@@ -23,9 +23,9 @@ Oui, Mademoiselle.
 06:03 Monsieur
 06:44 Est-ce que vous comprenez ?
 06:58 Est-ce que vous comprenez l'anglais ?
-07:16 je
+07:16 je /ʒə/
 07:26 comprends /kɔ̃pʀɑ̃/
-07:47 je comprends
+07:47 je comprends /kɔ̃pʀɑ̃/
 08:11 Je comprends l'anglais.
 08:25 je comprends, vous comprenez
 08:36 vous comprenez
@@ -36,9 +36,9 @@ Oui, Mademoiselle.
 09:27 Non, Monsieur.
 09:38 je comprends
 09:50 Je ne comprends pas
-09:55 pas
+09:55 pas /pɑ/
 10:00 comprends pas
-10:07 je ne
+10:07 je ne /ʒən/
 10:29 Je ne comprends pas
 11:10 l'anglais
 11:20 Je ne comprends pas l'anglais.
@@ -46,7 +46,7 @@ Oui, Mademoiselle.
 11:44 Est-ce que vous comprenez l'anglais ?
 11:56 Non. Je ne comprends pas.
 12:11 Je ne comprends pas l'anglais.
-12:20 le français
+12:20 le français /fʀɑ̃̃sɛ/
 12:23 français
 12:51 je comprends
 13:00 Je comprends le français.
@@ -61,7 +61,7 @@ Oui, Mademoiselle.
 16:04 Un peu.
 16:11 Je comprends un peu le français.
 16:55 Américain /ameʀikɛ̃/
-17:29 vous êtes
+17:29 vous êtes /ɛt/
 17:51 Vous êtes Américain.
 18:08 Est-ce que vous êtes Américain ?
 18:22 Pardon !
@@ -94,5 +94,5 @@ Oui, Mademoiselle.
 24:46 Un peu. Je comprends un peu le français.
 ========================================================
 comprendre /kɔ̃pʀɑ̃dʀ/: comprends, comprends, comprend, comprenons, comprenez, comprennent
-Américaine
+Américaine /ameʀikɛn/
 ========================================================
