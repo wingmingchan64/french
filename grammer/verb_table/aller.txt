@@ -1,0 +1,18 @@
+Infinitive:  aller
+Past Part:   allé
+Gerund:      allant
+Imperative:  va, allons, allez
+Present:     vais /vɛ/, vas, va, allons, allez, vont
+Pres Perf:   je suis allé
+Imperfect:   allais, allais, allait, allions, alliez, allaient
+Future:      irai, iras, ira, irons, irez, iront
+Conditional: irais, irais, irait, irions, iriez, iraient
+Past Hist:   allai, allas, alla, allâmes, allâtes, allèrent
+Pluperfect:  j'étais allé
+Future Perf: je serai allé
+Past Ant:    je fus allé
+Cond Perf:   je serais allé
+Pres Subj:   aille, ailles, aille, allions, alliez, aillent
+Imperf Subj: allasse, allasses, allât, allassions, allassiez, allassent
+PP Subj:     je sois allé
+Plup Subj:   je fusse allé
