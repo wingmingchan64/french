@@ -140,3 +140,5 @@ Non, Monsieur ! Je ne comprends pas l'anglais.
 28:32 Merci, Mademoiselle !
 28:36 Au revoir, Monsieur !
 28:40 Au revoir, Mademoiselle !
+========================================================
+aller /ale/: vais, vas, va, allons, allez, vont
