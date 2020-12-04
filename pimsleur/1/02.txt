@@ -42,7 +42,7 @@ Non, Monsieur ! Je ne comprends pas l'anglais.
 09:39 Est-ce que vous comprenez l'anglais ?
 09:55 Non, Monsieur.
 10:04 Je ne comprends pas.
-10:12 Bonjour !
+10:12 Bonjour /bɔ̃ʒuʀ/ ! 
 10:19 bon
 10:29 jour
 10:39 Bonjour !
@@ -62,7 +62,7 @@ Non, Monsieur ! Je ne comprends pas l'anglais.
 14:06 Très bien, merci.
 14:10 merci
 14:21 bien
-14:32 très
+14:32 très /tʀɛ/
 14:46 Très bien, merci.
 15:91 Bonjour, Monsieur !
 15:06 Monsieur
